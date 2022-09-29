@@ -1,3 +1,4 @@
+
 /*Дан следующий код, исправьте его там, где требуется
 *public static void main(String[] args) throws Exception {
 *  try {
